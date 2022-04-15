@@ -25,5 +25,5 @@ TIMEZONE: Anywhere On Earth
 <!-- 
 ## FAccT Network
 
-The FAccTRec 2021 workshop is proudly a part of the [FAccT network](https://facctconference.org/network/), to publish and engage with fairness, accountability, and transparency scholars across connected disciplines.
+The FAccTRec 2022 workshop is proudly a part of the [FAccT network](https://facctconference.org/network/), to publish and engage with fairness, accountability, and transparency scholars across connected disciplines.
 -->
