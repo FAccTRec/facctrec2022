@@ -5,20 +5,15 @@ permlink: /committee/
 ---
 ## Organizing Committee
 
-<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block; vertical-align: top">
-<p><img src="ekstrand.jpg" style="height:150px"></p>
-<p><a href="https://md.ekstrandom.net/">Michael D. Ekstrand</a></p>
-<p>Boise State University</p>
-</div>
-<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="schwab.jpg" style="height:150px"></p>
-<p><a href="http://www.intotheminds.com/blog/en/">Pierre-Nicolas Schwab</a></p>
-<p>Solvay Brussels School of Economics and Management</p>
-</div>
 <div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
 <p><img src="nasim.jpg" style="height:150px"></p>
 <p><a href="https://www.colorado.edu/cmci/people/graduate-students/information-science/nasim-sonboli">Nasim Sonboli</a></p>
 <p>University of Colorado Boulder</p>
+</div>
+<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
+<p><img src="amifa.jpg" style="height:150px"></p>
+<p><a href="https://amifaraj.github.io/">Amifa Raj</a></p>
+<p>Boise State University</p>
 </div>
 <div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
 <p><img src="kamishima.jpg" style="height:150px"></p>
