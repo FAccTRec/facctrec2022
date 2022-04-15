@@ -4,9 +4,9 @@ layout: page
 permlink: /cfp/
 ---
 
-The 4th FAccTRec Workshop on Responsible Recommendation at RecSys 2021 is a venue for discussing problems of social responsibility in maintaining, evaluating, and studying recommender systems. In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendation that will support a discussion on providing and evaluating socially responsible recommendations.
+The 5th FAccTRec Workshop on Responsible Recommendation at RecSys 2022 is a venue for discussing problems of social responsibility in maintaining, evaluating, and studying recommender systems. In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendation that will support a discussion on providing and evaluating socially responsible recommendations.
 
-We plan for this workshop to be a hybrid workshop, with an in-person component in Amsterdam in addition to a virtual component. Further details will be forthcoming, but physical attendance in Amsterdam will be encouraged if possible but not necessary to participate in the workshop.
+We currently plan for this workshop to be a hybrid workshop, with an in-person component in Seattle in addition to a virtual component. Further details will be forthcoming, but physical attendance in Seattle will be encouraged if possible but not necessary to participate in the workshop.
 
 ## Topics of Interest
 
@@ -29,8 +29,6 @@ Manuscripts must be submitted through EasyChair and will be reviewed by a progra
 
 Position papers address one or more of the above themes, or practical issues in building responsible recommendations. These could be either research systems or production systems in industry. The number of pages should be limited to three (3) pages in the ACM manuscript format and two (2) pages in the ACM sigconf format, not including references. You can omit the abstract in the article.
 
-For the 2021 workshop, we are particularly interested in position papers that reflect on the development of this space over the last 5 years: what is different about the responsible recommendation space now from when we had the first workshop in 2017? Where should the field go next? What impact has this research had on the broader field?
-
 Position papers connecting FAccTRec topics to recent events or public discussions are also welcome.
 
 ### Research Papers
@@ -49,13 +47,13 @@ However, we will not limit to this format, and will accept one of the ACM sigcon
 
 ## Submission
 
-Papers should be submitted from the [EasyChair](https://easychair.org/conferences/?conf=facctrec2021). Please do not forget to choose your type of submission: Position or Research.
+Papers should be submitted from the EasyChair. Please do not forget to choose your type of submission: Position or Research.
 
 ## Important Dates
 
-- <del style="color: gray;">2021-08-02</del>: Paper submission deadline
-- <del style="color: gray;">2021-08-21</del>: Author notification
-- <del style="color: gray;">2021-09-04</del>: Final version upload
-- 2021-09-25: Workshop
+- 2022-08-05: Paper submission deadline
+- 2022-08-27: Author notification
+- 2022-09-10: Final version upload
+- TBA in 2022-09-18 - 2022-09-23: Workshop
 
-All deadlines in time zone  Anywhere On Earth
+TIMEZONE: Anywhere On Earth (UTC-12)
