@@ -6,9 +6,9 @@ permlink: /committee/
 ## Organizing Committee
 
 <div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="nasim.jpg" style="height:150px"></p>
-<p><a href="https://www.colorado.edu/cmci/people/graduate-students/information-science/nasim-sonboli">Nasim Sonboli</a></p>
-<p>University of Colorado Boulder</p>
+<p><img src="nassim.jpeg" style="height:150px"></p>
+<p><a href="https://www.linkedin.com/in/nasimsonboli/">Nasim Sonboli</a></p>
+<p>Tufts University</p>
 </div>
 <div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
 <p><img src="amifa.jpeg" style="height:150px"></p>

@@ -11,7 +11,7 @@ The workshop will include presentations of these papers and discussion on a rese
 
 ## What's New
 
-* 2022-@@@@@@@@@@@@@@@@@@@@@@@@@: opening this site
+* 2022-04-27: opening this site
 
 ## Important Dates
 
