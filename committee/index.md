@@ -21,6 +21,14 @@ permlink: /committee/
 <p>National Institute of Advanced Industrial Science and Technology (AIST)</p>
 </div>
 
+## Advisor
+
+<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
+<p><img src="michaelekstrand.jpeg" style="height:150px"></p>
+<p><a href="https://md.ekstrandom.net/">Michael D. Ekstrand</a></p>
+<p>Boise State University</p>
+</div>
+
 ## Program Committee
 {:style="clear: both"}
 
