@@ -13,6 +13,12 @@ permlink: /committee/
 </div>
 
 <div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
+<p><img src="burkerobincub.jpeg" style="height:150px"></p>
+<p><a href="https://www.colorado.edu/cmci/people/college-leadership/robin-burke">Robin Burke</a></p>
+<p>University of Colorado Boulder</p>
+</div>
+
+<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
 <p><img src="nassim.jpeg" style="height:150px"></p>
 <p><a href="https://www.linkedin.com/in/nasimsonboli/">Nasim Sonboli</a></p>
 <p>Tufts University</p>
@@ -22,12 +28,6 @@ permlink: /committee/
 <p><img src="amifa.jpeg" style="height:150px"></p>
 <p><a href="https://amifaraj.github.io/">Amifa Raj</a></p>
 <p>Boise State University</p>
-</div>
-
-<div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="burkerobincub.jpeg" style="height:150px"></p>
-<p><a href="https://www.colorado.edu/cmci/people/college-leadership/robin-burke">Robin Burke</a></p>
-<p>University of Colorado Boulder</p>
 </div>
 
 <div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
