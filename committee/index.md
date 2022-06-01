@@ -31,8 +31,8 @@ permlink: /committee/
 </div>
 
 <div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="frlIf.png" style="height:150px"></p>
-<p><a href="https://www.linkedin.com/in/lbelli">Luca Belli</a></p>
+<p><img src="lucab.jpeg" style="height:150px"></p>
+<p><a href="https://twitter.com/__lucab">Luca Belli</a></p>
 <p>Twitter</p>
 </div>
 
