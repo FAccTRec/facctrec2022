@@ -4,6 +4,8 @@ layout: page
 permlink: /cfp/
 ---
 
+[Submission Site (deadline: 2022-08-05 23:59 UTC-12)](https://easychair.org/conferences/?conf=facctrec2022)
+
 The 5th FAccTRec Workshop on Responsible Recommendation at RecSys 2022 is a venue for discussing social responsibility problems in maintaining, evaluating, and studying recommender systems. In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendations that will support a discussion on providing and evaluating socially responsible recommendations.
 
 We currently plan for this workshop to be a hybrid workshop, with an in-person component in Seattle in addition to a virtual component. Further details will be forthcoming, but physical attendance in Seattle will be encouraged if possible but not necessary to participate in the workshop.
@@ -47,7 +49,7 @@ However, we will not limit to this format and accept one of the ACM sigconf, the
 
 ## Submission
 
-Papers should be submitted from EasyChair. Please do not forget to choose your type of submission: Position or Research.
+Papers should be submitted from [EasyChair](https://easychair.org/conferences/?conf=facctrec2022). Please do not forget to choose your type of submission: Position or Research.
 
 ## Important Dates
 
