@@ -25,8 +25,6 @@ The workshop will include presentations of these papers and discussion on a rese
 
 TIMEZONE: Anywhere On Earth (UTC-12)
 
-<!-- 
 ## FAccT Network
 
 The FAccTRec 2022 workshop is proudly a part of the [FAccT network](https://facctconference.org/network/), to publish and engage with fairness, accountability, and transparency scholars across connected disciplines.
--->
