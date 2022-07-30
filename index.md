@@ -21,7 +21,7 @@ The workshop will include presentations of these papers and discussion on a rese
 - 2022-08-05: Paper submission deadline
 - 2022-08-27: Author notification
 - 2022-09-10: Final version upload
-- TBA in 2022-09-18 - 2022-09-23: Workshop
+- 2022-09-23: Workshop
 
 TIMEZONE: Anywhere On Earth (UTC-12)
 
