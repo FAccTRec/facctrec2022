@@ -7,7 +7,7 @@ permlink: /
 <div style="color: red; text-align: center; margin-bottom: 5ex;">
 <p>Deadline Extension!</p>
 <p> abstract registration: 2022-08-08 23:59 UTC-12, paper submission: 2022-08-11 23:59 UTC-12</p>
-<p><a href="/cfp/">Call for Papers</a></p>
+<p><a href="{{ "/cfp/" | relative_url }}">Call for Papers</a></p>
 </div>
 
 The 5th FAccTRec Workshop on Responsible Recommendation at [RecSys 2022](https://recsys.acm.org/recsys22/) is a venue for discussing problems of social responsibility in building, maintaining, evaluating, and studying recommender systems, including but not limited to issues of fairness, accountability, and transparency (FAccT).
