@@ -16,12 +16,15 @@ The workshop will include presentations of these papers and discussion on a rese
 
 ## What's New
 
+* 2022-08-05: deadline extension!
 * 2022-06-03: open [submission site](https://easychair.org/conferences/?conf=facctrec2022)
 * 2022-04-27: opening this site
 
 ## Important Dates
 
-- 2022-08-05: Paper submission deadline
+- <span style="text-decoration: line-through;">2022-08-05: Paper submission deadline</span>
+- 2022-08-08: Abstract registration
+- 2022-08-11: Paper submission
 - 2022-08-27: Author notification
 - 2022-09-10: Final version upload
 - 2022-09-23: Workshop
