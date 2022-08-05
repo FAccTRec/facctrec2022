@@ -5,7 +5,8 @@ permlink: /
 ---
 
 <div style="color: red; text-align: center; margin-bottom: 5ex;">
-<p>Deadline Extension! abstract registration: 2022-08-08 23:59 UTC-12, paper submission: 2022-08-11 23:59 UTC-12</p>
+<p>Deadline Extension!</p>
+<p> abstract registration: 2022-08-08 23:59 UTC-12, paper submission: 2022-08-11 23:59 UTC-12</p>
 <p>[Call for Papers]({{ "/cfp/" | relative_url }})</p>
 </div>
 
