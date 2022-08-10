@@ -33,13 +33,13 @@ Manuscripts must be submitted through EasyChair and will be reviewed by our prog
 
 ### Position Papers
 
-Position papers address one or more of the above themes or practical issues in building responsible recommendations. These could be either research systems or production systems in the industry. The number of pages should be limited to three (3) pages in the ACM manuscript format and two (2) pages in the ACM sigconf format, not including references. Abstracts can be omitted in the article.
+Position papers address one or more of the above themes or practical issues in building responsible recommendations. These could be either research systems or production systems in the industry. The number of pages should be limited to three (3) pages in the ACM manuscript format and two (2) pages in the ACM sigconf format, not including references and acknowledgements. Abstracts can be omitted in the article.
 
 Position papers connecting FAccTRec topics to recent events or public discussions are also welcome.
 
 ### Research Papers
 
-Research papers present empirical or analytical results related to the social impact of recommender systems or algorithms. These could be explorations of bias in recommender systems (either live systems or sandboxed algorithms), explainability and transparency of recommender systems, experiments regarding the impact of the recommender on its users or others, etc. We will construe the topics broadly. The number of pages should be limited to ten (10) pages in the ACM manuscript format or six (6) pages in the ACM sigconf format, excluding references.
+Research papers present empirical or analytical results related to the social impact of recommender systems or algorithms. These could be explorations of bias in recommender systems (either live systems or sandboxed algorithms), explainability and transparency of recommender systems, experiments regarding the impact of the recommender on its users or others, etc. We will construe the topics broadly. The number of pages should be limited to ten (10) pages in the ACM manuscript format or six (6) pages in the ACM sigconf format, excluding references and acknowledgements.
 
 ## Paper format
 
