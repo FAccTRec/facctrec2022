@@ -4,11 +4,11 @@ layout: page
 permlink: /keynote/
 ---
 
-# Causality-based Fair Machine Learning for Sequential Decision Making
+## Causality-based Fair Machine Learning for Sequential Decision Making
 
 <p><img src="LuZhang.jpg" style="height:150px"></p>
 
-# Keynote Speaker: Lu Zhang (University of Arkansas)
+# Speaker: Lu Zhang (University of Arkansas)
 Dr. Lu Zhang is an assistant professor in the Computer Science and Computer Engineering Department at the University of Arkansas. He received a BEng degree in computer science and engineering from the University of Science and Technology of China in 2008, and a Ph.D. degree in computer science from the Nanyang Technological University in 2013. His research interests lie in the field of data mining, machine learning, and artificial intelligence, particularly in fair machine learning, causal modeling and inference, and robust natural language processing. He has published more than 30 papers in premier conferences and journals in data mining and artificial intelligence including NeurIPS, SIGKDD, AAAI, IJCAI, IEEE Transactions on Knowledge and Data Engineering, IEEE/ACM Transactions on Computational Biology and Bioinformatics, etc. He is a recipient of the NSF CAREER award.
 
   
