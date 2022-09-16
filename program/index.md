@@ -79,6 +79,7 @@ permlink: /program/
 
 ## The Role of Bias in News Recommendation in the Perception of the COVID-19 Pandemic
 * Thomas Elmar Kolb, Irina Nalis-Neuner, Mete Sertkan, and Julia Neidhardt
+* [article](https://owncloud.tuwien.ac.at/index.php/s/JZo6XBezUXToZqh)
 
 ## Short Presentations
 
