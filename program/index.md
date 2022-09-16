@@ -12,7 +12,7 @@ permlink: /program/
 
 ## 09:00 - 09:15: opening
 
-## Invited Talk: [Causality-based Fair Machine Learning for Sequential Decision Making]({{ "/keynote/")
+## Invited Talk: [Causality-based Fair Machine Learning for Sequential Decision Making]({{ "/keynote/"}})
 * Lu Zhang
 
 # 10:15 - 10:30: Break
