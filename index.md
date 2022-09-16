@@ -11,6 +11,7 @@ The workshop will include presentations of these papers and discussion on a rese
 
 ## What's New
 
+* 2022-09-17: [workshop program]({{ "/program/" | relative_url }})
 * 2022-08-05: deadline extension!
 * 2022-06-03: open [submission site](https://easychair.org/conferences/?conf=facctrec2022)
 * 2022-04-27: opening this site
@@ -21,7 +22,7 @@ The workshop will include presentations of these papers and discussion on a rese
 - <span style="text-decoration: line-through;">2022-08-08: Abstract registration</span>
 - <span style="text-decoration: line-through;">2022-08-11: Paper submission</span>
 - <span style="text-decoration: line-through;">2022-08-27: Author notification</span>
-- 2022-09-10: Final version upload
+- <span style="text-decoration: line-through;">2022-09-10: Final version upload</span>
 - 2022-09-23: Workshop
 
 TIMEZONE: Anywhere On Earth (UTC-12)
