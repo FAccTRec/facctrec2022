@@ -4,8 +4,9 @@ layout: page
 permlink: /program/
 ---
 
-- long paper: Presentation time is 17 mins, and question time is 3 mins.
-- short paper: Presentation time is 8mins. After three successive presentations, question time is 6 mins.
+- Long paper: Presentation time is 17 mins, and question time is 3 mins.
+- Short paper: Presentation time is 8mins. After three successive presentations, question time is 6 mins.
+- Time zone: US pacific daylight time (UTC -7)
 
 # Session 1 (on-line)
 
