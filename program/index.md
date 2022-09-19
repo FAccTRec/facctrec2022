@@ -8,112 +8,104 @@ permlink: /program/
 - Short paper: Presentation time is 8mins. After three successive presentations, question time is 6 mins.
 - Time zone: US pacific daylight time (UTC -7)
 
-# Session 1 (on-line)
+# 09:00 - 10:15:Session 1 (on-line)
 
-## 09:00 - 09:15: opening
+*  opening (15 mins)
 
-## Invited Talk: [Causality-based Fair Machine Learning for Sequential Decision Making]({{ "/keynote/ | relative_url }}")
+* Invited Talk: [Causality-based Fair Machine Learning for Sequential Decision Making]({{ "/keynote/ | relative_url }}")
 * Lu Zhang
 
 # 10:15 - 10:30: Break
 
 # 10:30 - 11:10: Session 2 (on-line)
 
-## Minimizing Mindless Mentions: Recommendation with Minimal Necessary User Reviews
-* Danny Stax, Manel Slokom, and Martha Larson
-* [article](https://arxiv.org/abs/2208.03242)
+* Minimizing Mindless Mentions: Recommendation with Minimal Necessary User Reviews
+	* Danny Stax, Manel Slokom, and Martha Larson
+	* [article](https://arxiv.org/abs/2208.03242)
 
-## Random Isn't Always Fair: Candidate Set Imbalance and Exposure Inequality in Recommender Systems
-* Amanda Bower, Kristian Lum, Tomo Lazovich, Kyra Yee, and Luca Belli
-* [article](https://arxiv.org/abs/2209.05000)
+* Random Isn't Always Fair: Candidate Set Imbalance and Exposure Inequality in Recommender Systems
+	* Amanda Bower, Kristian Lum, Tomo Lazovich, Kyra Yee, and Luca Belli
+	* [article](https://arxiv.org/abs/2209.05000)
 
-## Towards Fair Conversational Recommender Systems
-* Shuo Lin, Ziwei Zhu, Jianling Wang, and James Caverlee
-* [article](https://arxiv.org/abs/2208.03854)
+* Towards Fair Conversational Recommender Systems
+	* Shuo Lin, Ziwei Zhu, Jianling Wang, and James Caverlee
+	* [article](https://arxiv.org/abs/2208.03854)
 
 # 11:10 - 11:15: Break
 
 # 11:15 - 12:30: Session 3 (on-line)
 
-## Exposure-Aware Recommendation using Contextual Bandits
-* Masoud Mansoury, Bamshad Mobasher, and Herke Van Hoof
-* [article](https://arxiv.org/abs/2209.01665)
+* Exposure-Aware Recommendation using Contextual Bandits
+	* Masoud Mansoury, Bamshad Mobasher, and Herke Van Hoof
+	* [article](https://arxiv.org/abs/2209.01665)
 
-## Short Presentations
-
-* The Users Aren’t Alright: Dangerous Mental Illness Behaviors and Recommendations
-	* Ashlee Milton and Stevie Chancellor
-	* [article](https://arxiv.org/abs/2209.03941)
-
-* Ethical and Social Considerations in Automatic Expert Identification and People Recommendation in Organizational Knowledge Management Systems
-	* Ida Larsen-Ledet, Bhaskar Mitra, and Siân Lindley
-	* [article](https://arxiv.org/abs/2209.03819)
-
-* Solutions to preference manipulation in recommender systems require knowledge of meta-preferences
-	* Hal Ashton and Matija Franklin
-	* [article](https://drive.google.com/file/d/1zpZtRl1q2BlGxGJquyKXNAtKf-J5S5dP/view?usp=sharing)
+* Short Presentations
+	* The Users Aren’t Alright: Dangerous Mental Illness Behaviors and Recommendations
+		* Ashlee Milton and Stevie Chancellor
+		* [article](https://arxiv.org/abs/2209.03941)
+	* Ethical and Social Considerations in Automatic Expert Identification and People Recommendation in Organizational Knowledge Management Systems
+		* Ida Larsen-Ledet, Bhaskar Mitra, and Siân Lindley
+		* [article](https://arxiv.org/abs/2209.03819)
+	* Solutions to preference manipulation in recommender systems require knowledge of meta-preferences
+		* Hal Ashton and Matija Franklin
+		* [article](https://drive.google.com/file/d/1zpZtRl1q2BlGxGJquyKXNAtKf-J5S5dP/view?usp=sharing)
 
 # 12:30 - 14:00: Lunch
 
 # 14:00 - 15:00: Session 4 (on-line)
 
-## Fair Matrix Factorisation for Large-Scale Recommender Systems
-* Riku Togashi and Kenshi Abe
-* [article](https://arxiv.org/abs/2209.04394)
+* Fair Matrix Factorisation for Large-Scale Recommender Systems
+	* Riku Togashi and Kenshi Abe
+	* [article](https://arxiv.org/abs/2209.04394)
 
-## Hidden Author Bias in Book Recommendation
-* Savvina Daniil, Mirjam Cuper, Cynthia C.S. Liem, Jacco Van Ossenbruggen, and Laura Hollink
-* [article](https://arxiv.org/abs/2209.00371)
+* Hidden Author Bias in Book Recommendation
+	* Savvina Daniil, Mirjam Cuper, Cynthia C.S. Liem, Jacco Van Ossenbruggen, and Laura Hollink
+	* [article](https://arxiv.org/abs/2209.00371)
 
-## Inclusive Design: Principles of Inclusive Design Ethics for Recommender Systems
-* Susan Leavy
-* [article](https://arxiv.org/abs/2206.14055)
+* Inclusive Design: Principles of Inclusive Design Ethics for Recommender Systems
+	* Susan Leavy
+	* [article](https://arxiv.org/abs/2206.14055)
 
 # 15:00 - 15:20: Break
 
 # 15:20 - 16:30: Session 5 (in-person)
 
-## Matching Consumer Fairness Objectives & Strategies for RecSys
-* Michael Ekstrand and Maria Soledad Pera
-* [article](https://arxiv.org/abs/2209.02662)
+* Matching Consumer Fairness Objectives & Strategies for RecSys
+	* Michael Ekstrand and Maria Soledad Pera
+	* [article](https://arxiv.org/abs/2209.02662)
 
-## The Role of Bias in News Recommendation in the Perception of the COVID-19 Pandemic
-* Thomas Elmar Kolb, Irina Nalis-Neuner, Mete Sertkan, and Julia Neidhardt
-* [article](https://owncloud.tuwien.ac.at/index.php/s/JZo6XBezUXToZqh)
+* The Role of Bias in News Recommendation in the Perception of the COVID-19 Pandemic
+	* Thomas Elmar Kolb, Irina Nalis-Neuner, Mete Sertkan, and Julia Neidhardt
+	* [article](https://owncloud.tuwien.ac.at/index.php/s/JZo6XBezUXToZqh)
 
-## Short Presentations
-
-* A Stakeholder-Centered View on Fairness in Music Recommender Systems
-	* Karlijn Dinnissen and Christine Bauer
-	* [article](https://arxiv.org/abs/2209.06126)
-
-* Who Pays? Personalization, Bossiness and the Cost of Fairness
-	* Farastu Paresha, Nicholas Mattei, and Robin Burke
-	* [article](https://arxiv.org/abs/2209.04043)
-* What Are Filter Bubbles Really? A Review of the Conceptual and Empirical Work
-	* Lien Michiels, Jens Leysen, Annelien Smets, and Bart Goethals
-	* [article](http://adrem.uantwerpen.be//bibrem/pubs/bubbles.pdf)
+* Short Presentations
+	* A Stakeholder-Centered View on Fairness in Music Recommender Systems
+		* Karlijn Dinnissen and Christine Bauer
+		* [article](https://arxiv.org/abs/2209.06126)
+	* Who Pays? Personalization, Bossiness and the Cost of Fairness
+		* Farastu Paresha, Nicholas Mattei, and Robin Burke
+		* [article](https://arxiv.org/abs/2209.04043)
+	* What Are Filter Bubbles Really? A Review of the Conceptual and Empirical Work
+		* Lien Michiels, Jens Leysen, Annelien Smets, and Bart Goethals
+		* [article](http://adrem.uantwerpen.be//bibrem/pubs/bubbles.pdf)
 
 # 16:30 - 16:40: Break
 
 # 16:40 - 17:30: Session 6 (in-person)
 
-## Analyzing the Effect of Sampling in GNNs on Individual Fairness
-* Rebecca Salganik, Fernando Diaz, and Golnoosh Farnadi
-* [article](https://arxiv.org/abs/2209.03904)
+* Analyzing the Effect of Sampling in GNNs on Individual Fairness
+	* Rebecca Salganik, Fernando Diaz, and Golnoosh Farnadi
+	* [article](https://arxiv.org/abs/2209.03904)
 
-## Short Presentations
-
-* Towards Responsible Medical Diagnostics Recommendation Systems
-	* Daniel Schlör and Andreas Hotho
-	* [article](https://arxiv.org/abs/2209.03760)
-
-* Discussion about attacks and defenses for fair and robust recommendation system design
-	* Mirae Kim and Simon Woo
-	* [article](https://www.researchgate.net/publication/363432484_Discussion_about_Attacks_and_Defenses_for_Fair_and_Robust_Recommendation_System_Design)
-
-* RecSys Fairness Metrics: Many to Use But Which One To Choose?
-	* Jessie J. Smith, and Lex Beattie
-	* [article](https://arxiv.org/abs/2209.04011)
+* Short Presentations
+	* Towards Responsible Medical Diagnostics Recommendation Systems
+		* Daniel Schlör and Andreas Hotho
+		* [article](https://arxiv.org/abs/2209.03760)
+	* Discussion about attacks and defenses for fair and robust recommendation system design
+		* Mirae Kim and Simon Woo
+		* [article](https://www.researchgate.net/publication/363432484_Discussion_about_Attacks_and_Defenses_for_Fair_and_Robust_Recommendation_System_Design)
+	* RecSys Fairness Metrics: Many to Use But Which One To Choose?
+		* Jessie J. Smith, and Lex Beattie
+		* [article](https://arxiv.org/abs/2209.04011)
 
 # 17:30 - 17:40: Closing Remarks
