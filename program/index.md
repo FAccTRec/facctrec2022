@@ -76,7 +76,7 @@ permlink: /program/
 
 * The Role of Bias in News Recommendation in the Perception of the COVID-19 Pandemic
 	* Thomas Elmar Kolb, Irina Nalis-Neuner, Mete Sertkan, and Julia Neidhardt
-	* [article](https://owncloud.tuwien.ac.at/index.php/s/JZo6XBezUXToZqh)
+	* [article](http://arxiv.org/abs/2209.07608)
 
 * Short Presentations
 	* A Stakeholder-Centered View on Fairness in Music Recommender Systems
