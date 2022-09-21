@@ -64,7 +64,7 @@ permlink: /program/
 
 * Inclusive Design: Principles of Inclusive Design Ethics for Recommender Systems
 	* Susan Leavy
-	* [article](https://arxiv.org/abs/2206.14055)
+	* article
 
 # 15:00 - 15:20: Break
 
