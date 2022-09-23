@@ -17,7 +17,7 @@ permlink: /program/
 
 # 10:15 - 10:30: Break
 
-# 10:30 - 11:10: Session 2 (on-line)
+# 10:30 - 11:30: Session 2 (on-line)
 
 * Minimizing Mindless Mentions: Recommendation with Minimal Necessary User Reviews
 	* Danny Stax, Manel Slokom, and Martha Larson
@@ -31,9 +31,9 @@ permlink: /program/
 	* Shuo Lin, Ziwei Zhu, Jianling Wang, and James Caverlee
 	* [article](https://arxiv.org/abs/2208.03854)
 
-# 11:10 - 11:15: Break
+# 11:30 - 11:40: Break
 
-# 11:15 - 12:30: Session 3 (on-line)
+# 11:40 - 12:30: Session 3 (on-line)
 
 * Exposure-Aware Recommendation using Contextual Bandits
 	* Masoud Mansoury, Bamshad Mobasher, and Herke Van Hoof
