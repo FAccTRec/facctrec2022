@@ -63,6 +63,8 @@ permlink: /program/
 * Hidden Author Bias in Book Recommendation
 	* Savvina Daniil, Mirjam Cuper, Cynthia C.S. Liem, Jacco Van Ossenbruggen, and Laura Hollink
 	* [article](https://arxiv.org/abs/2209.00371)
+	* [slide](https://docs.google.com/presentation/d/1NBEHZEH8mYv7r88vRN7bG0EfpXpwHvh5llyz6Alnguk/edit?usp=sharing)
+	* [code1](https://github.com/SavvinaDaniil/EnrichBookCrossing), [code2](https://github.com/SavvinaDaniil/BiasInRecommendation)
 
 * Inclusive Design: Principles of Inclusive Design Ethics for Recommender Systems
 	* Susan Leavy
