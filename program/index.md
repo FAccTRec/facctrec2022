@@ -27,6 +27,7 @@ permlink: /program/
 * Random Isn't Always Fair: Candidate Set Imbalance and Exposure Inequality in Recommender Systems
 	* Amanda Bower, Kristian Lum, Tomo Lazovich, Kyra Yee, and Luca Belli
 	* [article](https://arxiv.org/abs/2209.05000)
+	* [slide](slide-bower.pdf)
 
 * Towards Fair Conversational Recommender Systems
 	* Shuo Lin, Ziwei Zhu, Jianling Wang, and James Caverlee
