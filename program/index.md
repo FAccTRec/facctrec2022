@@ -50,7 +50,7 @@ permlink: /program/
 		* [article](https://arxiv.org/abs/2209.03819)
 	* Solutions to preference manipulation in recommender systems require knowledge of meta-preferences
 		* Hal Ashton and Matija Franklin
-		* [article](https://drive.google.com/file/d/1zpZtRl1q2BlGxGJquyKXNAtKf-J5S5dP/view?usp=sharing)
+		* [article](https://arxiv.org/abs/2209.11801)
 
 # 12:30 - 14:00: Lunch
 
