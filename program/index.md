@@ -77,6 +77,7 @@ permlink: /program/
 * Matching Consumer Fairness Objectives & Strategies for RecSys
 	* Michael Ekstrand and Maria Soledad Pera
 	* [article](https://arxiv.org/abs/2209.02662)
+	* [slide](https://md.ekstrandom.net/pubs/facctrec-matching)
 
 * The Role of Bias in News Recommendation in the Perception of the COVID-19 Pandemic
 	* Thomas Elmar Kolb, Irina Nalis-Neuner, Mete Sertkan, and Julia Neidhardt
