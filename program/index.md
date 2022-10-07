@@ -88,6 +88,7 @@ permlink: /program/
 	* A Stakeholder-Centered View on Fairness in Music Recommender Systems
 		* Karlijn Dinnissen and Christine Bauer
 		* [article](https://arxiv.org/abs/2209.06126)
+		* [slide](slide-dinnissen.pdf)
 	* Who Pays? Personalization, Bossiness and the Cost of Fairness
 		* Farastu Paresha, Nicholas Mattei, and Robin Burke
 		* [article](https://arxiv.org/abs/2209.04043)
