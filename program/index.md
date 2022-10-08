@@ -92,6 +92,7 @@ permlink: /program/
 	* Who Pays? Personalization, Bossiness and the Cost of Fairness
 		* Farastu Paresha, Nicholas Mattei, and Robin Burke
 		* [article](https://arxiv.org/abs/2209.04043)
+		* [slide](slide-farastu.pdf)
 	* What Are Filter Bubbles Really? A Review of the Conceptual and Empirical Work
 		* Lien Michiels, Jens Leysen, Annelien Smets, and Bart Goethals
 		* [article](http://adrem.uantwerpen.be//bibrem/pubs/bubbles.pdf)
