@@ -11,7 +11,7 @@ permlink: /program/
 # 09:00 - 10:15:Session 1 (on-line)
 
 *  opening (15 mins)
-	* [slide](welcom.pdf)
+	* [slide](welcome.pdf)
 
 * Invited Talk: [Causality-based Fair Machine Learning for Sequential Decision Making]({{ "/keynote/" | relative_url }})
 	* Lu Zhang
